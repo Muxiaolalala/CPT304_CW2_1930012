@@ -17,7 +17,7 @@ This is a part of your project that leverages the Vue.js framework. To successfu
 
 3. Project Setup:
    a. Clone or download the project from the repository to your local machine.
-   b. Navigate to the project directory in your terminal/command prompt.
+   b. Unzip and Navigate to the project directory in your terminal/command prompt.
    c. Install project dependencies using the following command:
 
       ```
