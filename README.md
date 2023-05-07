@@ -1,5 +1,5 @@
 # CPT304_CW2
-Efficient Software Development through Component-Based Engineering: A Practical Exploration and Analysis
+
 How to run this website?
 This is a part of your project that leverages the Vue.js framework. To successfully set up and use this project, follow the step-by-step instructions below:
 
